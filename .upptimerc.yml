@@ -18,6 +18,8 @@ status-website:
       href: /
     - title: ZeroMOQ Source Code
       href: https://github.com/TrustAdditive/TrustAdditiveDjango
+assignees:
+  - shejulshubham
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
