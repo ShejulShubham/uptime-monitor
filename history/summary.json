@@ -4,19 +4,19 @@
     "url": "https://www.zeromoq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeromoq.com.ico",
     "slug": "zero-moq",
-    "status": "down",
-    "uptime": "97.81%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 2207,
-    "timeDay": 2207,
-    "timeWeek": 2207,
-    "timeMonth": 2207,
-    "timeYear": 2207,
+    "status": "up",
+    "uptime": "96.73%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "96.73%",
+    "uptimeMonth": "96.73%",
+    "uptimeYear": "96.73%",
+    "time": 2238,
+    "timeDay": 2238,
+    "timeWeek": 2238,
+    "timeMonth": 2238,
+    "timeYear": 2238,
     "dailyMinutesDown": {
-      "2026-01-11": 23
+      "2026-01-11": 35
     }
   },
   {
