@@ -4,18 +4,20 @@
     "url": "https://www.zeromoq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeromoq.com.ico",
     "slug": "zero-moq",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2386,
-    "timeDay": 2386,
-    "timeWeek": 2386,
-    "timeMonth": 2386,
-    "timeYear": 2386,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "97.60%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
+    "time": 2433,
+    "timeDay": 2433,
+    "timeWeek": 2433,
+    "timeMonth": 2433,
+    "timeYear": 2433,
+    "dailyMinutesDown": {
+      "2026-01-11": 23
+    }
   },
   {
     "name": "Emprog",
